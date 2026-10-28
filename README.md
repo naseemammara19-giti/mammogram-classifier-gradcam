@@ -1,4 +1,4 @@
-[mammogram-README.md](https://github.com/user-attachments/files/34077048/mammogram-README.md)
+
 ---
 title: Mammogram Classifier
 emoji: 🩺
