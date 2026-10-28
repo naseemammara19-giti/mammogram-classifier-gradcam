@@ -1,6 +1,6 @@
 
 ---
-title: Mammogram Classifier
+Title: Mammogram Classifier
 emoji: 🩺
 colorFrom: blue
 colorTo: pink
